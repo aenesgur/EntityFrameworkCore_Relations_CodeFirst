@@ -1,0 +1,11 @@
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\bin\Debug\netcoreapp3.1\EfCoreRelations.Data.deps.json
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\bin\Debug\netcoreapp3.1\EfCoreRelations.Data.dll
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\obj\Debug\netcoreapp3.1\EfCoreRelations.Data.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\obj\Debug\netcoreapp3.1\EfCoreRelations.Data.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\obj\Debug\netcoreapp3.1\EfCoreRelations.Data.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\bin\Debug\netcoreapp3.1\EfCoreRelations.Data.runtimeconfig.json
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\bin\Debug\netcoreapp3.1\EfCoreRelations.Data.runtimeconfig.dev.json
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\obj\Debug\netcoreapp3.1\EfCoreRelations.Data.genruntimeconfig.cache
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\bin\Debug\netcoreapp3.1\EfCoreRelations.Data.pdb
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\obj\Debug\netcoreapp3.1\EfCoreRelations.Data.dll
+C:\Users\enes.gur\Desktop\EfCoreRelations\EfCoreRelations.Data\obj\Debug\netcoreapp3.1\EfCoreRelations.Data.pdb
